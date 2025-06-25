@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "../styles/Conteststandingspagination.module.css";
+// import styles from "../styles/Conteststandingspagination.module.css";
 
 const Conteststandingspagination = ({ totalPages, currentPage, setCurrentPage }) => {
     const handlePageChange = (e) => {
